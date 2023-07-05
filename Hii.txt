@@ -1,0 +1,2 @@
+console.log("Inside Hii");
+1+2=3
